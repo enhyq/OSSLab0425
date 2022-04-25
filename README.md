@@ -2,3 +2,6 @@
 group assignment
 ## 21900050 group-10
 hello?!?
+
+
+This is for first commit. HELLO!!
